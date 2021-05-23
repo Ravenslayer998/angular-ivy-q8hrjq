@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: red;
+}
+
+.Intro {
+  font-family: 'Times New Roman';
+  text-align: center;
+  margin-block: center;
+  color: blue;
+}
+
+.Video {
+  align-content: center;
+}
